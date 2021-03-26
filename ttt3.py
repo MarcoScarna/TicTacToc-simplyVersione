@@ -1,7 +1,6 @@
 # coding=UTF8
 
 # Python TicTacToe game with Tk GUI and minimax AI
-# Author: Maurits van der Schee <maurits@vdschee.nl>
 
 import sys
 if sys.version_info >= (3, 0):

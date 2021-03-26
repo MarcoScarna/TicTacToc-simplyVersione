@@ -1,10 +1,9 @@
 # coding=UTF8
 
 # Python TicTacToe game with Tk GUI and minimax AI
-# Author: Maurits van der Schee <maurits@vdschee.nl>
 
-from Tkinter import Tk, Button
-from tkFont import Font
+from tkinter import Tk, Button
+from tkinter.font import Font
 from copy import deepcopy
 
 class Board:
